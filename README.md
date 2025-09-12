@@ -2,7 +2,7 @@
 
 I'm a passionate software developer dedicated to building innovative and practical projects. Here are a few highlights from my portfolio:
 
-## 🧩 [Sandfall-Tetris](https://github.com/Janspitoy/Sandfall-Tetris)  
+## 🧩 [Sandfall-Blocks](https://github.com/Janspitoy/Sandfall-Tetris)  
 A physics-inspired Tetris game where blocks fall like sand, blending classic gameplay with sandbox mechanics for a fresh experience.
 
 ## ✈️ [AirplaneCrashes](https://github.com/Janspitoy/AirplaneCrashes)  

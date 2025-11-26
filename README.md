@@ -6,6 +6,11 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 [Gemini AI Crypto Trader](https://github.com/Janspitoy/AI-Trader)
+A fully autonomous **cryptocurrency trading bot** powered by **Google Gemini 2.5 Flash** — capable of "reasoning" about market trends, analyzing technical indicators (RSI, EMA), and executing trades with built-in risk management.
+
+---
+
 ### 🧩 [Sandfall-Blocks](https://github.com/Janspitoy/Sandfall-Tetris)
 A creative game where blocks fall like sand, combining classic **Tetris** mechanics with sandbox-style physics for a fresh and dynamic experience.
 
@@ -33,8 +38,8 @@ My **personal website**, available at [touchcraft.com/es](https://touchcraft.com
 
 ### ⚡ [Tap Rush](https://github.com/Janspitoy/Tap-Rush)
 A **mobile game built with Cordova**, featuring three exciting modes:
-- 🕹️ Endless mode — survive with 3 lives  
-- ⏱️ Time mode — 1-minute speed challenge  
+- 🕹️ Endless mode — survive with 3 lives  
+- ⏱️ Time mode — 1-minute speed challenge  
 - 💥 Falling mode — dodge and tap falling buttons!
 
 ---
@@ -50,7 +55,8 @@ An experimental **AI-driven game** inspired by Snake — powered by diffusion mo
 |-----------|---------------|
 | 💻 **Languages** | Python, JavaScript |
 | 🌐 **Frameworks** | Django, Flask, React |
-| 🗄️ **Databases** | PostgreSQL, MongoDB |
+| 🤖 **AI & ML** | Google Gemini, Pandas, NumPy |
+| 🗄️ **Databases** | PostgreSQL, MongoDB, SQLite |
 | ⚙️ **Tools & Platforms** | Git, Docker, REST APIs, CI/CD pipelines |
 
 ---
